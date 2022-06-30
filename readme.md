@@ -4,11 +4,11 @@
 
 > If you are still interested in my macOS, please continue to see all the fun apps and tools I use. 
 
-![](https://raw.githubusercontent.com/nikitavoloboev/my-mac-os/master/light.png)
+![](https://raw.githubusercontent.com/BCassady/my-mac-os/master/Light\ Theme.png)
 
 > Light appearance. I have macOS setup to automatically switch between light and dark theme between the day and night. I prefer *most* apps to be light theme during the day.
 
-![](https://raw.githubusercontent.com/nikitavoloboev/my-mac-os/master/night.png)
+![](https://raw.githubusercontent.com/BCassady/my-mac-os/master/Dark\ Theme.png)
 
 > Dark appearance. Most are in one desktop since there is delay in switching between macOS multiple desktops, I only use a second desktop when working with VMs. Dock is always shown. Desktop background is dynamic based on theme.
 
