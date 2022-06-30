@@ -8,7 +8,7 @@
 
 > Light appearance. I have macOS setup to automatically switch between light and dark theme between the day and night. I prefer *most* apps to be light theme during the day.
 
-![](https://raw.githubusercontent.com/BCassady/my-mac-os/master/imgs/Dark%20Theme.png)
+![](https://github.com/BCassady/my-mac-os/blob/4749d1c81969c646112d85be135598c9846e3442/imgs/Dark%20Theme.png)
 
 > Dark appearance. Most are in one desktop since there is delay in switching between macOS multiple desktops, I only use a second desktop when working with VMs. Dock is always shown. Desktop background is dynamic based on theme.
 
