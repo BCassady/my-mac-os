@@ -308,7 +308,7 @@ I hope to one day share my dotfiles, at the moment I am too lazy to find them al
 
 Below are my most used CLI tools. 
 
-- [devd]([https://github.com/cortesi/devd](https://github.com/cortesi/devd)) - Local webserver for developers.
+- [devd]([https://github.com/cortesi/devd](https://github.com/cortesi/devd) - Local webserver for developers.
 - [direnv](https://direnv.net/) - Environment switcher for the shell.
 - [fd](https://github.com/sharkdp/fd) - Simple, fast and user-friendly alternative to 'find'.
 - [gh](https://cli.github.com/) - CLI for github.
@@ -325,7 +325,7 @@ Below are my most used CLI tools.
 - [pandoc](https://github.com/jgm/pandoc) - Universal markup converter.
 - [piknik](https://github.com/jedisct1/piknik) - Copy/paste anything over the network.
 - [pipx](https://github.com/pypa/pipx) - Python package installer. 
-- [pv]([https://ivarch.com/programs/pv.shtml](https://ivarch.com/programs/pv.shtml)) - Pipe Viewer.
+- [pv]([https://ivarch.com/programs/pv.shtml](https://ivarch.com/programs/pv.shtml) - Pipe Viewer.
 - [python/python3](https://github.com/python/cpython) - Run python scripts from terminal.
 - [reflex](https://github.com/cespare/reflex) - Run a command when files change.
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - Search text for patterns fast.
@@ -334,10 +334,10 @@ Below are my most used CLI tools.
 - [trash](https://github.com/sindresorhus/trash) - Move files and folders to the trash.
 - [tree](http://mama.indstate.edu/users/ice/tree/) - Show file paths as a tree. 
 - [up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, APIs, and sites in seconds to AWS.
-- [watchexec]([https://github.com/watchexec/watchexec](https://github.com/watchexec/watchexec)) - Executes commands in response to file modifications.
-- [wifi-password]([https://github.com/rauchg/wifi-password](https://github.com/rauchg/wifi-password)) - Get the password of the - WiFi you're on.
-- [xsv]([https://github.com/BurntSushi/xsv](https://github.com/BurntSushi/xsv)) - Fast CSV command line toolkit written in Rust.
-- [youtube-dl]([https://github.com/rg3/youtube-dl](https://github.com/rg3/youtube-dl)) - Download videos from YouTube and other video sites.
+- [watchexec]([https://github.com/watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications.
+- [wifi-password]([https://github.com/rauchg/wifi-password](https://github.com/rauchg/wifi-password) - Get the password of the - WiFi you're on.
+- [xsv]([https://github.com/BurntSushi/xsv](https://github.com/BurntSushi/xsv) - Fast CSV command line toolkit written in Rust.
+- [youtube-dl]([https://github.com/rg3/youtube-dl](https://github.com/rg3/youtube-dl) - Download videos from YouTube and other video sites.
 
 ## Similar Setups
 
