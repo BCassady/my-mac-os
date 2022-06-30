@@ -26,10 +26,9 @@
   - [Browsers](#browsers)
     - [Chrome Extensions](#chrome-extensions)
 - [Command Line Apps](#command-line-apps)
-- [My wonderful world of iOS](#my-wonderful-world-of-ios-)
 - [Similar Setups](#similar-setups)
 - [Related](#related)
-- [Contributing](#contributing)
+- [Thank You](#thank-you)
 
 ## Applications
 
