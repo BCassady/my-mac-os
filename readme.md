@@ -16,7 +16,7 @@
   - [Productivity](#productivity)
     - [Alfred Workflows](#alfred-workflows)
   - [Software Development](#software-development)
-    - [VS Code Extensions](#vscode-extensions)
+    - [VS Code Extensions](#vs-code-extensions)
   - [Quality of Life](#quality-of-life)
   - [Social](#social)
 	- [Discord Plugins](#discord-plugins)
