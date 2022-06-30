@@ -4,7 +4,7 @@
 
 > If you are still interested in my macOS, please continue to see all the fun apps and tools I use. 
 
-![](https://raw.githubusercontent.com/BCassady/my-mac-os/master/imgs/Light%20Theme.png)
+![](https://github.com/BCassady/my-mac-os/blob/be0c4c9b27295b9f023db912d078de635f9d1f21/imgs/Light%20Theme.png)
 
 > Light appearance. I have macOS setup to automatically switch between light and dark theme between the day and night. I prefer *most* apps to be light theme during the day.
 
