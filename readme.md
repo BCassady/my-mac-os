@@ -199,6 +199,33 @@ I hope to one day share my dotfiles, at the moment I am too lazy to find them al
 
 ### Quality of Life
 
+#### [Steermouse](https://plentycom.jp/en/steermouse/) - Customize Mouse Curves & Directions
+
+- When I first started using MacOS I was upset with two things. First, I could not make my scrolling different when using trackpad and mouse. Second, I could not adjust the mouse acceleration curve so that it matched my Windows machine. Steermouse solved both of those. 
+
+#### [Bartender 4](https://www.macbartender.com/Bartender4/) - Menu Bar Organizer
+
+- I use bartender to organize my menu bar. It has many features, but my favorite is the custom spacing options. This is now my menu bar currently looks.
+
+#### [Hazel](https://www.noodlesoft.com/) - File Automator
+
+- Hazel watches whatever folders you tell it to, automatically organizing your files according to the rules you create. My favorite use of hazel is a temp folder that all my downloads go to, and delete after three days of no use. 
+
+#### [Skim](https://skim-app.sourceforge.io/) - PDF Viewer
+
+- My PDF Viewer of choice. Skim will automatically update a PDF document when it has been changed, this makes it great for editing LaTeX documents locally. 
+
+#### [Magnet](https://magnet.crowdcafe.com/) - Window Manager
+
+- Magnet is my current window manager, I use shortcuts and snapping to get all my windows in the right place. While I use magnet because I already paid about it, I hear great things about [rectangle](https://rectangleapp.com/) which is free. 
+
+#### [iStatMenus](https://bjango.com/mac/istatmenus/) - Performance Monitor
+
+- The easiest way to become cool amongst your coworkers is to be able to tell them exactly how much RAM you’re using and show them a chart. 
+
+#### [Camo](https://reincubate.com/camo/) - Phone Webcam
+
+- Ever wanted to use your phone as a webcam? Now you can!
 
 
 ### Social
