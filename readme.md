@@ -209,6 +209,8 @@ I hope to one day share my dotfiles, at the moment I am too lazy to find them al
 
 - I use bartender to organize my menu bar. It has many features, but my favorite is the custom spacing options. This is now my menu bar currently looks.
 
+<img src="https://github.com/BCassady/my-mac-os/blob/8dbc2c1be4655082d78ea99879a552c3e5d8d451/imgs/Bartender.png" alt="alfred_img" width="500"/>
+
 #### [Hazel](https://www.noodlesoft.com/) - File Automator
 
 - Hazel watches whatever folders you tell it to, automatically organizing your files according to the rules you create. My favorite use of hazel is a temp folder that all my downloads go to, and delete after three days of no use. 
