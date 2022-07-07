@@ -369,12 +369,12 @@ Below are my most used CLI tools.
 
 Here you can find more setups by other people that you can take ideas and inspiration from.
 
+- [Nikita Voloboev's my-mac-os](https://github.com/nikitavoloboev/my-mac-os/) - What inspired this my-mac-os
 - [Works for me](https://works-for-me.github.io/) - Collection of developer toolkits.
 - [Use This Interviews](https://usesthis.com) - What do people use to get stuff done?
 - [Omar Bahareth's my-mac-os](https://github.com/obahareth/my-mac-os) - Another my-mac-os.
 
 ## Related
-- [my-mac-os](https://github.com/nikitavoloboev/my-mac-os/)
 - [Awesome mac](https://github.com/jaywcjlove/awesome-mac)
 - [Interesting macOS apps](https://github.com/learn-anything/macos-apps)
 - [Open Source macOS apps](https://github.com/serhii-londar/open-source-mac-os-apps)
