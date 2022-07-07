@@ -28,6 +28,7 @@
 - [Command Line Apps](#command-line-apps)
 - [Similar Setups](#similar-setups)
 - [Related](#related)
+- [TODO](#todo)
 - [Thank You](#thank-you)
 
 ## Applications
@@ -382,6 +383,10 @@ Here you can find more setups by other people that you can take ideas and inspir
 - [Awesome mac](https://github.com/jaywcjlove/awesome-mac)
 - [Interesting macOS apps](https://github.com/learn-anything/macos-apps)
 - [Open Source macOS apps](https://github.com/serhii-londar/open-source-mac-os-apps)
+
+## TODO
+- Add dotfiles
+- Add more images
 
 ## Thank you
 
