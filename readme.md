@@ -46,7 +46,7 @@ I hope to one day share my dotfiles, at the moment I am too lazy to find them al
 
 - Alfred is a powerful launcher that you can program to show anything you want. It saves me a lot of time as I use it to search through anything instantly. Alfred also supports an abundance of workflows which I use many of. There are many more features to Alfred, much more than I can list here. 
 
-![](https://github.com/BCassady/my-mac-os/blob/49bc48b3186fb054d6e7fd191560078adb5374f9/imgs/Alfred.png)
+<img src="[drawing.jpg](https://github.com/BCassady/my-mac-os/blob/49bc48b3186fb054d6e7fd191560078adb5374f9/imgs/Alfred.png)" alt="alfred_img" width="500"/>
 
 ##### Alfred Workflows
 
