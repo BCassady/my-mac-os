@@ -228,6 +228,10 @@ I hope to one day share my dotfiles, at the moment I am too lazy to find them al
 
 - The easiest way to become cool amongst your coworkers is to be able to tell them exactly how much RAM you’re using and show them a chart. 
 
+#### [Reflector 4](https://www.airsquirrels.com/reflector) - Screen Mirroring
+
+- The best app for mirroring Airplay/Chromecast/Miracast devices. I mostly use it for mirroring my iPad. 
+
 #### [Camo](https://reincubate.com/camo/) - Phone Webcam
 
 - Ever wanted to use your phone as a webcam? Now you can!
