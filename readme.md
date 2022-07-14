@@ -251,6 +251,10 @@ I hope to one day share my dotfiles, at the moment I am too lazy to find them al
 
 - I use discord for messaging my friends, as well as keeping up to date with various groups and technologies. I have also developed a discord bot that I test using discord. I run Discord Canary on my mac since it has support for the M1. I also use a variety of Discord Plugins found here. 
 
+#### [Textual](https://www.codeux.com/textual/) - IRC App
+
+- Cool app for IRC chatrooms on MacOS. I don't use IRC too often but is useful when a group is very keen on using IRC.
+
 ##### Discord Plugins
 
 - [BetterRoleColors](https://betterdiscord.app/plugin/BetterRoleColors) - Show role colors in more places.
