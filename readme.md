@@ -175,6 +175,10 @@ I hope to one day share my dotfiles, at the moment I am too lazy to find them al
 
 - I use Android Studio primarily for FIRST Tech Challenge robotics programming. I have also used it slightly for Android app development.
 
+#### [Zed](https://zed.dev/) - Collaborative Code Editor
+
+- Zed is a cool code editor built in Rust made specifically for collaboartion. I haven't used it too much yet, but so far it has worked much better than VSCode Live Share and Jetbrains Code With Me. Thanks to [Karl](https://github.com/KarlWithK) for the invite. 
+
 #### [Paw](https://paw.cloud/) - API Tool
 
 - Use it to quickly make HTTP requests and test out API endpoints. Similar to postman but cooler. 😎
